@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # latihan
 
 A new Flutter project.
@@ -19,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # latihan-flutter-statefull-stateless
 Latihan Statefull dan Stateless di lib/main.dart
 >>>>>>> origin/master
+=======
+# latihan-flutter-statefull-stateless
+Latihan Statefull dan Stateless di lib/main.dart
+>>>>>>> cfb3817d44196116ba98ae894f1b77571e25c827
