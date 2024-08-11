@@ -1,26 +1,26 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# latihan
+# Flutter Stateful & Stateless Widgets
 
-A new Flutter project.
+**Flutter Stateful & Stateless Widgets** adalah contoh aplikasi Flutter yang menunjukkan perbedaan antara widget `Stateful` dan `Stateless`. Aplikasi ini membantu memahami konsep dasar dalam Flutter mengenai pengelolaan state dan cara kerja widget dalam aplikasi.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- **Widget Stateful**: Contoh penggunaan widget yang memiliki state yang dapat berubah selama siklus hidup aplikasi.
+- **Widget Stateless**: Contoh penggunaan widget yang tidak memiliki state dan hanya bergantung pada data yang diberikan melalui konstruktor.
+- **Interaksi**: Menunjukkan bagaimana widget dapat berinteraksi dan mempengaruhi satu sama lain.
 
-A few resources to get you started if this is your first Flutter project:
+## Prasyarat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Sebelum memulai, pastikan kamu telah menginstal [Flutter](https://flutter.dev/docs/get-started/install) dan memiliki [Dart SDK](https://dart.dev/get-dart) di sistem kamu.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# latihan-flutter-statefull-stateless
-Latihan Statefull dan Stateless di lib/main.dart
->>>>>>> origin/master
-=======
-# latihan-flutter-statefull-stateless
-Latihan Statefull dan Stateless di lib/main.dart
->>>>>>> cfb3817d44196116ba98ae894f1b77571e25c827
+## Instalasi
+
+Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi ini di lingkungan lokal kamu:
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/alviangans/flutter-statefull-stateless.git
+   cd flutter-statefull-stateless
+   flutter pub get
+   flutter run
+Aplikasi akan tersedia di emulator atau perangkat yang terhubung.
+
